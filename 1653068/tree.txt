@@ -1,0 +1,7 @@
+outlook = sunny
+| 	humidity = high: no
+| 	humidity = normal: yes
+outlook = overcast: yes
+outlook = rainy
+| 	windy = false: yes
+| 	windy = true: no

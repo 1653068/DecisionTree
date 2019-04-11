@@ -1,0 +1,3 @@
+outlook temperature humidity windy play
+overcast hot high false ?
+sunny mild normal true ?
